@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.container {
+  background-color: #e6a8e6;
+  border-radius: 1rem;
+  padding: 3rem;
+  margin: 15rem auto;
+  display: flex;
+  justify-content: center;
+}
+
+input[type=number] {
+  width: 500px;
+  margin: 1rem 0;
+}
+
+select {
+  width: 300px;
+}
+
+input[type=submit] {
+  margin: 1rem 0;
+}
+
+svg {
+  width: 35px;
+  background-color: lightblue;
+  padding: 10px;
+  border-radius: 10px;
+}/*# sourceMappingURL=main.css.map */
